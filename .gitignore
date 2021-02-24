@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+\#*\#
+\.\#*
+*~
+*.bck
+build
+dist
+*.swp
+.coverage
+.coverage*
+
+# for eclipse, vscode and other IDE users
+.settings/
+.project
+.pydevproject
+.cache/
+*.egg-info/
+.eggs
+.pytest_cache/
+.vscode/*
+*.so

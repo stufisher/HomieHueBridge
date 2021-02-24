@@ -1,0 +1,23 @@
+{
+  "HOST": "123.456.789.123",
+  "PORT": 1883,
+  "KEEPALIVE": 10,
+  "USERNAME": "",
+  "PASSWORD": "",
+  "CA_CERTS": "",
+  "DEVICE_ID": "",
+  "DEVICE_NAME": "Hue Bridge",
+  "TOPIC": "devices",
+  "HUEDEVICES": {
+    "1": {
+      "name": "Living Room",
+    	"type": "light",
+    	"address": "abcdef/light",
+    },
+    "2": {
+      "name": "Uplight",
+    	"type": "light",
+    	"address": "dfgdfg56/relay"
+    }
+  }
+}
